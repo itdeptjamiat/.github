@@ -1,4 +1,4 @@
-# Assalamualaikum!
+# Assalamualaikum
 
 **Islami Jamiat-e-Talaba (IJT)** is the **oldest and largest student organization in Pakistan** founded in **December 1947**.
 
