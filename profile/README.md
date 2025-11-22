@@ -20,3 +20,9 @@
 | SAMA – Syed Abul A’la Maududi Academy  | An educational institute named after Maududi, offering ideological training and study circles.                                    | https://samaijt.com           |
 | Idara Matboat Talba                   | A student-led publishing house that produces Islamic books, pamphlets, and literature.                                            | https://imtbooks.com.pk       |
 | HumQadam Magazine                     | A student-run magazine featuring quality content for students, created and read by students.                                      | https://hamqadam.com.pk       |
+
+---
+
+## Lead Developers
+- [Asharib Ali](https://github.com/asharibali)
+- [Iqbal Khan](https://github.com/dev-iqbal-khan)
