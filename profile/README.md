@@ -20,6 +20,7 @@
 | SAMA – Syed Abul A’la Maududi Academy  | An educational institute named after Maududi, offering ideological training and study circles.                                    | https://samaijt.com           |
 | HumQadam Magazine                     | A student-run magazine featuring quality content for students, created and read by students.                                      | https://hamqadam.com.pk       |
 | SAFE Foundation                      |  A dedicated initiative to empower youth through the innovative 4E Framework: Engage, Enroll, Equip, and Establish.                                      | https://safefoundation.xyz/       |
+| EchoReads                      |  A digital reading companion: Discover top magazines, articles, and digests in one beautiful app. Read anywhere, anytime.                                      | https://www.echoreads.online/       |
 | Idara Matboat Talba                   | A student-led publishing house that produces Islamic books, pamphlets, and literature.                                            | https://imtbooks.com.pk       |
 
 ---
