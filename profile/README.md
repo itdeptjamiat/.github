@@ -18,8 +18,9 @@
 | IJT Pakistan                 | A large Islamic organization working for religious and social betterment in Pakistan.                                             | https://jamiat.org.pk |
 | NEXT – Nurture, eXcel, Transform             | A student development program that focuses on leadership, skills, and Islamic values through camps, online courses, and projects. | https://nextijt.com           |
 | SAMA – Syed Abul A’la Maududi Academy  | An educational institute named after Maududi, offering ideological training and study circles.                                    | https://samaijt.com           |
-| Idara Matboat Talba                   | A student-led publishing house that produces Islamic books, pamphlets, and literature.                                            | https://imtbooks.com.pk       |
 | HumQadam Magazine                     | A student-run magazine featuring quality content for students, created and read by students.                                      | https://hamqadam.com.pk       |
+| SAFE Foundation                      |  A dedicated initiative to empower youth through the innovative 4E Framework: Engage, Enroll, Equip, and Establish.                                      | https://safefoundation.xyz/       |
+| Idara Matboat Talba                   | A student-led publishing house that produces Islamic books, pamphlets, and literature.                                            | https://imtbooks.com.pk       |
 
 ---
 
