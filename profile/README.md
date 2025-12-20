@@ -113,15 +113,17 @@ Our IT Department has developed a comprehensive suite of software applications a
 
 ## Lead Developers
 
-### Mobile Applications
-- **Muhammad Iqbal Khan** - [LinkedIn](https://www.linkedin.com/in/m-iqbal-khan/)
+### Web Applications & AI
+- **Asharib Ali** - [LinkedIn](https://www.linkedin.com/in/asharibali/), [Github](https://github.com/asharibali)
+  - Specializes in web development and software architecture
+  - Lead developer for Jamiat website, NEXT, SAMA, Hamqadam, SAFE Foundation, and other web platforms
+ 
+
+### Mobile Applications & Software
+- **Muhammad Iqbal Khan** - [LinkedIn](https://www.linkedin.com/in/m-iqbal-khan/), [Github](https://github.com/dev-iqbal-khan)
   - Specializes in React Native mobile app development
   - Lead developer for EchoReads, Jamiat Reporting App, Rozo Shab, and IJT LMS
 
-### Web Applications & Software
-- **Asharib Ali** - [LinkedIn](https://www.linkedin.com/in/asharibali/)
-  - Specializes in web development and software architecture
-  - Lead developer for Jamiat website, NEXT, SAMA, Hamqadam, SAFE Foundation, and other web platforms
 
 ---
 
