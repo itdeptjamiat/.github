@@ -188,5 +188,5 @@ Projects are maintained by Islami Jamiat-e-Talaba Pakistan. Please refer to indi
 
 ---
 
-**© 2025 Islami Jamiat-e-Talaba Pakistan. All rights reserved.**
+**© 2026 Islami Jamiat-e-Talaba Pakistan. All rights reserved.**
 
